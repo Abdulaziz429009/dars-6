@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+}
+
+p {
+    text-align: center;
+    font-size: 22px;
+    background-color: black;
+    color: white;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    width: 400px;
+    height: 50px;
+    font-size: 22px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    font-size: 22px;
+    border-radius: 10px;
+    width: 400px;
+}
